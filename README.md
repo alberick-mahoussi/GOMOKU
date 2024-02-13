@@ -103,4 +103,9 @@ Example:
  The manager sends:  
   ABOUT  
  The brain answers:  
-  name="SomeBrain", version="1.0", author="Nymand", country="USA"
+  name="SomeBrain", version="1.0", author="Nymand", country="USA"  
+
+ ### Contributors
+ * alberick.mahoussi@epitech.eu
+ * pascal.lin@epitech.eu
+ * sofiane.bassaler@epitech.eu
